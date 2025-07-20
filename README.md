@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-##DESCRIPTION OF TASK 1 :
+##DESCRIPTION OF TASK 2 :
 In Task 2 of the CodTech internship, I worked on setting up cloud monitoring and alerts using AWS. The main goal of this task was to track system performance and get notified when something unusual happens — like high CPU usage or low disk space — so that action can be taken before the system crashes or slows down. I started by creating an EC2 instance, which is basically a virtual server running on the cloud. I chose Ubuntu as the OS and enabled monitoring through AWS CloudWatch. CloudWatch is a service that collects real-time metrics from AWS resources and lets you visualize them on a dashboard. After setting up the instance, I explored how to monitor key system-level metrics like CPU utilization, network traffic, and disk I/O. I created a custom CloudWatch dashboard and added these metrics to it, so I could easily track them in one place.
 
 The next step was to create alarms. I set up a CPU utilization alarm that would trigger if the usage went above a certain percentage. I also created another alarm related to disk space, which I monitored using a custom metric since disk space isn’t tracked by default. Once the alarms were in place, I connected them to Amazon SNS (Simple Notification Service) to send out notifications. I created an SNS topic, subscribed my email address to it, and tested it by stressing the CPU on the instance. As expected, once the usage crossed the threshold, the alarm triggered and I got an email alert from AWS SNS. It was a clear example of how monitoring and alerts work together in real-world cloud setups.
