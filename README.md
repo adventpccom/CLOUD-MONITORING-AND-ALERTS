@@ -21,3 +21,15 @@ Throughout this task, I got hands-on experience with CloudWatch, EC2, and SNS â€
 
 This task made me more confident in working with AWS and cloud monitoring in general. It gave me a small but solid idea of how DevOps teams ensure server reliability and performance in production. Overall, Task 2 was not only about completing a checklist but also about understanding the role of observability in cloud infrastructure. I also faced and solved minor issues like IAM permissions and blocked alerts during setup, which gave me more practical exposure. I feel that this task pushed me to explore deeper and made me more comfortable with real-world cloud tools and workflows.
 
+
+<img width="1899" height="966" alt="Image" src="https://github.com/user-attachments/assets/6c9a6462-1773-490c-9d1c-f3235165e083" />
+
+<img width="1909" height="960" alt="Image" src="https://github.com/user-attachments/assets/1580f84c-44e4-4183-8883-02da0b2d93c5" />
+<img width="1906" height="973" alt="Image" src="https://github.com/user-attachments/assets/c8e031be-c049-461f-9b1b-050854cd8970" />
+<img width="1909" height="960" alt="Image" src="https://github.com/user-attachments/assets/90e8ba25-aad4-4b18-90ce-b926bfb8dfca" />
+<img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/282f0c2f-52df-49ad-a45f-a487b31ca664" />
+<img width="1913" height="957" alt="Image" src="https://github.com/user-attachments/assets/d6ea057d-ca0b-49ce-90e0-8bb6794a9a51" />
+<img width="1907" height="958" alt="Image" src="https://github.com/user-attachments/assets/a4ec867b-9d8c-4188-9d97-1f277f38a6b5" />
+<img width="1915" height="911" alt="Image" src="https://github.com/user-attachments/assets/aafbc039-d490-4d95-a341-36f2fe1c4ba4" />
+<img width="1486" height="651" alt="Image" src="https://github.com/user-attachments/assets/c684ffdb-d66c-4e98-95b5-a4c8a682882f" />
+
